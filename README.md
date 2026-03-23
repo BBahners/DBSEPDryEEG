@@ -3,6 +3,7 @@
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
+- [Citation](#citation)
 - [License](#license)
 - [Issues]([https://github.com/BBahners/DBSEPDryEEG/issues])
 
@@ -30,3 +31,13 @@ cd DBSEPDryEEG
 # License
 
 This project is covered under the **Apache 2.0 License**.
+
+# Citation
+
+If you use the code please cite:
+
+Bahners et al. Cortical response signatures explain deep brain stimulation outcomes in Parkinson’s disease. doi: coming soon.
+
+Meanwhile please cite the preprint:
+
+Bahners et al. 2024. Evoked response signatures explain deep brain stimulation outcomes. medRxiv. doi: https://doi.org/10.1101/2024.10.04.24314308
