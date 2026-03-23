@@ -30,7 +30,10 @@ cd DBSEPDryEEG
 
 # License
 
-This project is covered under the **Apache 2.0 License**.
+© 2024 Bahners, Goede & Horn, BWH. All rights reserved.
+
+This code is part of an ongoing research and invention disclosure.
+Unauthorized use, distribution, or modification is prohibited.
 
 # Citation
 
