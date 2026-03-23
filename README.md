@@ -37,7 +37,7 @@ Unauthorized use, distribution, or modification is prohibited.
 
 # Citation
 
-If you use the code please cite:
+If you are allowed to use the code please cite:
 
 Bahners et al. Cortical response signatures explain deep brain stimulation outcomes in Parkinson’s disease. doi: coming soon.
 
