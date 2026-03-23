@@ -24,7 +24,7 @@ This package is supported for *macOS* and *Windows*. The package has been tested
 
 ### Install from Github
 ```
-git clone [https://github.com/BBahners/DBSEPDryEEG/]
+git clone https://github.com/BBahners/DBSEPDryEEG/
 cd DBSEPDryEEG
 ```
 
