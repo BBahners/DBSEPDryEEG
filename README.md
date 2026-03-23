@@ -1,1 +1,2 @@
 # DBSEPDryEEG
+This study introduces a new framework applying the spatial signature of DBS-EP recorded with a dry EEG system to identify the optimal DBS contact based on a mass-univariate approach (bb_Rmap_EP.m). Cortical responses evoked by a total of 57,503 stimulation pulses at 58 subthalamic stimulation sites were used to create a model of optimal EP topography (/data/Rmap.mat). Similarities of individual response signatures to this model were able to estimate significant amounts of variance in empirical improvements. 
