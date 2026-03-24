@@ -30,10 +30,7 @@ cd DBSEPDryEEG
 
 # License
 
-© 2024 Bahners, Goede & Horn, BWH. All rights reserved.
-
-This code is part of an ongoing research and invention disclosure.
-Unauthorized use, distribution, or modification is prohibited.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). This software is provided "as is", without warranty of any kind. For more details, see the LICENSE file or visit: https://www.gnu.org/licenses/gpl-3.0.html
 
 # Citation
 
